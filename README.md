@@ -5,6 +5,9 @@ maven project:
 
 * A jar project demonstrate a Math library
 * A Unit test source code using JUnit Test Framework
+* TDD - Test Driven Development and DDT - Data Driven Testing
+* CI - Continuos Integration script using Github action
+* Regression testing technique when refactoring code
 * ...
 
 ### Screen-shots
